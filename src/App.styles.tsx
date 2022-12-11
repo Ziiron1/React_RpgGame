@@ -1,15 +1,9 @@
 import styled from "styled-components";
 
 export const Container = styled.div`
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    borderbox: box-sizing;
-    padding: 0;
-    margin: 0;
     background-color: #24282F;
     min-height: 100vh;
-    color: #fff;
+    color: #FFF;
 `;
 
 export const Map = styled.div`
