@@ -32,8 +32,8 @@ Perfeito para entender sobre diversos conceitos como:
 
  
 ### :heavy_check_mark:Técnicas e tecnologias usadas
-  .  ``React Js``
-  .  ``Typescript``
-  .  ``Javascript``
-  .  ``CSS``
-  .  ``Styled-Components``
+  |  ``React Js``
+  |  ``Typescript``
+  |  ``Javascript``
+  |  ``CSS``
+  |  ``Styled-Components`` |
